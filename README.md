@@ -18,6 +18,7 @@ This project helps researchers, policymakers, and disaster management teams:
 - Make data-driven decisions for disaster mitigation and emergency planning.
 
 ## Technologies
-- **MySQL:** Structured storage and querying of earthquake data.
 - **Python & Pandas:** Data cleaning, preprocessing, and analysis.
+- **MySQL:** Structured storage and querying of earthquake data.
 - **Streamlit:** Interactive dashboard for real-time exploration and visualization.
+
